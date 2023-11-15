@@ -1,0 +1,38 @@
+_repo: The-Percheron-horse_71972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Du Hays, Charles
+    aliases:
+    - Hays, Charles Du
+    - Haÿs, Charles‏ Du
+    - Huÿs, Charles‏ Du
+    - Du Huÿs, Charles‏
+    - Huys, Charles‏ Du
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '56481'
+    url: http://www.gutenberg.org/2009/agents/56481
+description: ''
+gutenberg_issued: '2023-10-27'
+identifiers:
+  gutenberg: '71972'
+language: en
+pgterms:marc904: https://archive.org/details/percheronhorse00duha
+pgterms:marc905: 20220605050259duhuys
+pgterms:marc906: '1868'
+pgterms:marc907: US
+production_note: Bob Taylor, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bOrange Judd & Company, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Draft horses'
+- !lcsh 'Percheron horse'
+- !lcc 'SF'
+- GITenberg
+title: The Percheron horse
+url: http://www.gutenberg.org/ebooks/71972
