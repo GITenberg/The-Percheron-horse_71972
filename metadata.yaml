@@ -1,5 +1,8 @@
 _repo: The-Percheron-horse_71972
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71972-h/images/cover.jpg
 creator:
   author:
     agent_name: Du Hays, Charles
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '56481'
     url: http://www.gutenberg.org/2009/agents/56481
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71972#The-Percheron-horse
 gutenberg_issued: '2023-10-27'
 identifiers:
   gutenberg: '71972'
